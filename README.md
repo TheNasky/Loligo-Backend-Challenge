@@ -91,5 +91,6 @@ APP_ENV=dev            # prod exige key, DB y CORS explícito
 ## Enlaces
 
 - Repositorio: [TheNasky/Loligo-Backend-Challenge](https://github.com/TheNasky/Loligo-Backend-Challenge)
-- Deploy: `<BACKEND_DEPLOY_URL>`
+- Deploy: [Docs](https://battery-single-mask-proceed.trycloudflare.com/docs)
 - Frontend (proyecto aparte): [TheNasky/Inkflow-Frontend](https://github.com/TheNasky/Inkflow-Frontend)
+- Deploy Front: [inkflow-loligo.vercel.app](https://battery-single-mask-proceed.trycloudflare.com/docs)
